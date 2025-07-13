@@ -1,0 +1,1 @@
+ C:\\Users\\gokul\\Downloads\\calory-20240402T184113Z-001\\calory\\.dart_tool\\flutter_build\\9c69406a2935ef4850e5426f0a2daf2e\\native_assets.yaml: 
